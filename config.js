@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Click to enter bao's ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Girlfriend? 🌹", // The big question!
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest guy in the world to have been accepted by this princess! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest guy in the world to have been accepted by this princess! 🙌🏻💕",
         message: "Bao is this cringe cuz me is dying inside when creating this",
-        emojis: "🐰👸🍅🙌🏻💕"  // These will bounce around
+        emojis: "🐰👸🍅"  // These will bounce around
     },
 
     // Color scheme for the website
