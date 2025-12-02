@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Does princess like bao?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: Over here you cutie yes ofc bao mi love you! ❤️"           // Secret hover message
+            secretAnswer: "Over here you cutie yes ofc bao mi love you! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
