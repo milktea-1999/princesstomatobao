@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Girlfriend? 💝",
+    pageTitle: "Will You Be My Girlfriend? 👸",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Does princess like bao?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "(Over here you cutie) yes ofc bao mi love you! ❤️"           // Secret hover message
+            secretAnswer: "(Over here you cutie) yes ofc mi love you bao! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest guy in the world to have been accepted by this princess! 🎉💝💖💝💓",
-        message: "Bao hope you don't find this cringe cuz me is dying inside when creating this ><",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Bao is this cringe cuz me is dying inside when creating this",
+        emojis: "🐰👸🍅🙌🏻💕"  // These will bounce around
     },
 
     // Color scheme for the website
