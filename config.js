@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Gwyneth",
+    valentineName: "Jade",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dqaxp9nqh/video/upload/v1739465113/SunKissed_Lola_-_Pasilyo_Official_Lyric_Video_j1muwc.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
@@ -86,4 +86,4 @@ const CONFIG = {
 };
 
 // Don't modify anything below this line unless you know what you're doing
-window.VALENTINE_CONFIG = CONFIG; 
+window.VALENTINE_CONFIG = CONFIG;  
