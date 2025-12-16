@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Girlfriend? 👸",
+    pageTitle: "Will You Be My Girlfriend? 👸🍅",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,20 +22,20 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Does princess like bao?",                                    // First interaction
+            text: "Does princess Zhumato like bao?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "(Over here you cutie) yes ofc mi love you bao! ❤️"           // Secret hover message
+            secretAnswer: "(Over here you cutie) yes ofc mi love you shy bao! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Click to enter bao's ❤️"                                         // Text for the next button
+            nextBtn: "Click to enter bao's ❤️ once more"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Girlfriend? 🌹", // The big question!
-            yesBtn: "Yes, mi princess accepts bao as my boyfriend",                                             // Text for "Yes" button
-            noBtn: "No, mi is waiting for God to give me the right guy :("                                                 // Text for "No" button
+            yesBtn: "Yes, mi princess Zhumato accepts shy bean as my boyfriend",                                             // Text for "Yes" button
+            noBtn: "No, mi is still waiting for God to give me the right guy :("                                                 // Text for "No" button
         }
     },
 
@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "Aiyooo bao me luv you as much too 🥰🚀💝",  // Shows when they go past 5000%
-        high: "BAOOOO STAPH ME SHY 🚀💝",              // Shows when they go past 1000%
+        high: "BAOOOO STAPH ME GETTIN SHY 🚀💝",              // Shows when they go past 1000%
         normal: "WAO BAO 🥰"                           // Shows when they go past 100%
     },
 
